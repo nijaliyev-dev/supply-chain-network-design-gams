@@ -17,7 +17,7 @@ Where plants and warehouses are placed determines a large part of a supply chain
 
 The model is applied to a case with **13 candidate locations across Azerbaijan**. Every location can host a plant, a warehouse (Small, Medium or Large), and a customer demand zone. The company that supplied the case data is not named, and all figures here come from my own model runs.
 
-![Optimal network](results/figures/optimal_network.png)
+
 *Optimal network of the base case (schematic, approximate coordinates, no base map). Red: plant → warehouse. Green: warehouse → customer.*
 
 ## Key results
