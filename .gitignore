@@ -1,0 +1,20 @@
+# GAMS
+*.lst
+*.log
+*.gdx.bak
+225*/
+gamsdir/
+.gams*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
+.idea/
