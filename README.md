@@ -142,4 +142,4 @@ The code is released under the [MIT License](LICENSE).
 ## Contact
 
 **Nijat Aliyev** · Industrial Engineering
-GitHub: [@your-username](https://github.com/nijaliyev-dev)
+GitHub: (https://github.com/nijaliyev-dev)
