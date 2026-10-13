@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-verification-3776AB)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Bachelor's thesis project, Industrial Engineering, Yıldız Technical University (2025).
+Industrial Engineering, Yıldız Technical University (2025).
 Author: **Nijat Aliyev**
 
 ---
