@@ -1,5 +1,5 @@
 # Supply Chain Network Design: Three-Echelon Facility–Warehouse Location (GAMS)
-
+ 
 > A mixed-integer optimization model that decides **which plants to open, which warehouses to open (and in what size), and which warehouse serves each customer zone** at minimum total cost.
 
 ![GAMS](https://img.shields.io/badge/GAMS-MIP-blue)
