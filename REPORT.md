@@ -6,7 +6,7 @@
 
 ## 1. Problem
 
-TYS (Türk Yapı Sənaye) produces gypsum-based construction materials in Azerbaijan and serves customers in 13 regions. Management wants to know **where to open plants and warehouses, and what warehouse size to build**, so that total network cost is minimal. Company policy limits the network to 4–5 plants and a restricted number of warehouses.
+TYS produces gypsum-based construction materials in Azerbaijan and serves customers in 13 regions. Management wants to know **where to open plants and warehouses, and what warehouse size to build**, so that total network cost is minimal. Company policy limits the network to 4–5 plants and a restricted number of warehouses.
 
 ## 2. Approach
 
